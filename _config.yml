@@ -1,13 +1,13 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             N01ch1v3
+email:             it.mahaifeng@gmail.com
+description:       生活只有苟且，并没有诗和远方
+author:            N01ch1v3
 baseurl:           "/"
-url:               "http://blackrockdigital.github.io"
+url:               "http://N01ch1v3.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
-github_username:   BlackrockDigital
+github_username:   N01ch1v3
 facebook_username: StartBootstrap
 
 # Build settings
